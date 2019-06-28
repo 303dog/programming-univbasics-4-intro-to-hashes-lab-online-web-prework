@@ -2,7 +2,7 @@ def new_hash {}
   
 end
 
-def my_hash {"bob"=> 10}
+def my_hash = {"bob"=> 10, "Mary"=> 5}
 end
 
 def pioneer
